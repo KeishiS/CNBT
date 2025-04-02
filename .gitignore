@@ -1,0 +1,5 @@
+data/*
+!data/.gitkeep
+!data/*.jld2
+!data/*.svg
+test/out/
